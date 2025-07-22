@@ -1,0 +1,29 @@
+{
+    "vitesse": 10,
+    "diapos": [
+        {
+            "fichier": "slides\/bandeau_local.php",
+            "nom": "bandeau local"
+        },
+        {
+            "fichier": "slides\/idee_diapo.php",
+            "nom": "idee diapo"
+        },
+        {
+            "fichier": "slides\/meteo.php",
+            "nom": "meteo"
+        },
+        {
+            "fichier": "slides\/Actu_DO_juin_2025.jpg",
+            "nom": "actudo"
+        },
+        {
+            "fichier": "slides\/franceinfo.php",
+            "nom": "bfmtv"
+        },
+        {
+            "fichier": "slides\/Flamme_et_TerritoireP1.jpg",
+            "nom": "Flamme et Territoire P1"
+        }
+    ]
+}
