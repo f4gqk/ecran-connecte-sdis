@@ -1,0 +1,1 @@
+<iframe src="https://api.wo-cloud.com/content/widget/?geoObjectKey=516891&language=fr&region=FR&timeFormat=HH:mm&windUnit=kmh&systemOfMeasurement=metric&temperatureUnit=celsius" name="CW2" scrolling="no" width="290" height="318" frameborder="0" style="border: 1px solid #10658E;border-radius: 8px"></iframe>
